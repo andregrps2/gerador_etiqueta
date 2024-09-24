@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|d:\\projetos_git\\geradoretiqueta\\src\\gerador.etiqueta\\app.gerador.etiqueta\\forms\\frmetiqueta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\forms\\frmetiqueta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\app.gerador.etiqueta\\forms\\frmetiqueta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\forms\\frmetiqueta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\app.gerador.etiqueta\\forms\\frmetiquetacampo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\forms\\frmetiquetacampo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|d:\\projetos_git\\geradoretiqueta\\src\\gerador.etiqueta\\app.gerador.etiqueta\\forms\\frmgeracaoimpressao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\forms\\frmgeracaoimpressao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|d:\\projetos_git\\geradoretiqueta\\src\\gerador.etiqueta\\app.gerador.etiqueta\\forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\app.gerador.etiqueta\\classes\\impressao\\impressaoetiqueta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\classes\\impressao\\impressaoetiqueta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|d:\\projetos_git\\geradoretiqueta\\src\\gerador.etiqueta\\app.gerador.etiqueta\\forms\\frmgeracaoimpressao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\forms\\frmgeracaoimpressao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\app.gerador.etiqueta\\forms\\frmetiquetacampo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\forms\\frmetiquetacampo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\app.gerador.etiqueta\\classes\\model\\etiquetacampo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\classes\\model\\etiquetacampo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|d:\\projetos_git\\geradoretiqueta\\src\\gerador.etiqueta\\app.gerador.etiqueta\\classes\\dal\\etiquetamodelodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\classes\\dal\\etiquetamodelodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|d:\\projetos_git\\geradoretiqueta\\src\\gerador.etiqueta\\app.gerador.etiqueta\\classes\\dal\\etiquetacampodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\classes\\dal\\etiquetacampodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|d:\\projetos_git\\geradoretiqueta\\src\\gerador.etiqueta\\app.gerador.etiqueta\\classes\\repositorio\\repositorioabstrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\classes\\repositorio\\repositorioabstrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|d:\\projetos_git\\geradoretiqueta\\src\\gerador.etiqueta\\app.gerador.etiqueta\\forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\forms\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|d:\\projetos_git\\geradoretiqueta\\src\\gerador.etiqueta\\app.gerador.etiqueta\\forms\\frmgeracaoimpressao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\forms\\frmgeracaoimpressao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|d:\\projetos_git\\geradoretiqueta\\src\\gerador.etiqueta\\app.gerador.etiqueta\\classes\\fixo\\campo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\classes\\fixo\\campo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\app.gerador.etiqueta\\classes\\model\\etiquetaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D160A5-F567-4A06-8378-8ED57D9ED71F}|App.Gerador.Etiqueta\\App.Gerador.Etiqueta.csproj|solutionrelative:app.gerador.etiqueta\\classes\\model\\etiquetaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmGeracaoImpressao.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.cs",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAnwEoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:36:15.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGeracaoImpressao.cs [Design]",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.cs [Design]",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:29:43.203Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Forms\\FrmMenu.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmMenu.cs",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Forms\\FrmMenu.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:28:06.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Forms\\FrmMenu.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmMenu.cs [Design]",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Forms\\FrmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:28:03.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmEtiquetaCampo.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmEtiquetaCampo.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Forms\\FrmEtiquetaCampo.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmEtiquetaCampo.cs",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Forms\\FrmEtiquetaCampo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:06:58.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmEtiquetaCampo.cs [Design]",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmEtiquetaCampo.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Forms\\FrmEtiquetaCampo.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmEtiquetaCampo.cs [Design]",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Forms\\FrmEtiquetaCampo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:34:36.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmEtiqueta.cs [Design]",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmEtiqueta.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Forms\\FrmEtiqueta.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmEtiqueta.cs [Design]*",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Forms\\FrmEtiqueta.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:34:30.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EtiquetaCampo.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Model\\EtiquetaCampo.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Classes\\Model\\EtiquetaCampo.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Model\\EtiquetaCampo.cs",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Classes\\Model\\EtiquetaCampo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwEEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:12:58.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImpressaoEtiqueta.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Impressao\\ImpressaoEtiqueta.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Classes\\Impressao\\ImpressaoEtiqueta.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Impressao\\ImpressaoEtiqueta.cs",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Classes\\Impressao\\ImpressaoEtiqueta.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAnwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:11:08.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEtiqueta.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmEtiqueta.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Forms\\FrmEtiqueta.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmEtiqueta.cs*",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Forms\\FrmEtiqueta.cs*",
+              "ViewState": "AgIAALEAAAAAAAAAAAAnwMMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:34:33.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EtiquetaModeloDao.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Dal\\EtiquetaModeloDao.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Classes\\Dal\\EtiquetaModeloDao.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Dal\\EtiquetaModeloDao.cs",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Classes\\Dal\\EtiquetaModeloDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:33:04.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EtiquetaCampoDao.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Dal\\EtiquetaCampoDao.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Classes\\Dal\\EtiquetaCampoDao.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Dal\\EtiquetaCampoDao.cs",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Classes\\Dal\\EtiquetaCampoDao.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:30:00.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositorioAbstrato.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Repositorio\\RepositorioAbstrato.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Classes\\Repositorio\\RepositorioAbstrato.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Repositorio\\RepositorioAbstrato.cs",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Classes\\Repositorio\\RepositorioAbstrato.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAIcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:38:25.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmGeracaoImpressao.Designer.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.Designer.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.Designer.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.Designer.cs",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Forms\\FrmGeracaoImpressao.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:37:46.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EtiquetaItem.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Model\\EtiquetaItem.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Classes\\Model\\EtiquetaItem.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Model\\EtiquetaItem.cs",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Classes\\Model\\EtiquetaItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:11:04.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Campo.cs",
+              "DocumentMoniker": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Fixo\\Campo.cs",
+              "RelativeDocumentMoniker": "App.Gerador.Etiqueta\\Classes\\Fixo\\Campo.cs",
+              "ToolTip": "D:\\Projetos_Git\\GeradorEtiqueta\\src\\Gerador.Etiqueta\\App.Gerador.Etiqueta\\Classes\\Fixo\\Campo.cs",
+              "RelativeToolTip": "App.Gerador.Etiqueta\\Classes\\Fixo\\Campo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:08:03.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
